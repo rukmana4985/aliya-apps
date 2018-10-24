@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/white">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin_small"
+        >
+        <ImageView
+            android:layout_width="125dp"
+            android:layout_height="100dp"
+            android:id="@+id/image"
+            android:scaleType="centerCrop"
+            android:background="@drawable/rounded"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:textSize="@dimen/text_m"
+                android:text="nama video terpilih"
+                android:maxLines="2"
+                android:id="@+id/title"
+                android:layout_marginTop="@dimen/margin_small"
+                android:layout_marginLeft="@dimen/margin_smed"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/text_m"
+                android:text="nama video terpilih"
+                android:lines="2"
+                android:id="@+id/preview"
+                android:maxLines="2"
+                android:layout_marginLeft="@dimen/margin_smed"/>
+
+        </LinearLayout>
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_margin="@dimen/margin_small"
+        android:background="@color/bgGrey"/>
+</LinearLayout>

@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "502074403591",
+    "firebase_url": "https://terminalhrd-178920.firebaseio.com",
+    "project_id": "terminalhrd-178920",
+    "storage_bucket": "terminalhrd-178920.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502074403591:android:008ef7689ae4b79f",
+        "android_client_info": {
+          "package_name": "com.project.aliya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502074403591-eo44q630h2cvl3fp51je30bai2dirui0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.interview",
+            "certificate_hash": "384e80c5ddc97bde50ed497dab88a67b707a9713"
+          }
+        },
+        {
+          "client_id": "502074403591-k9b7uao0fuic9a6729ajpqmneeopdbm8.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "502074403591-355tdrbc7vsls59mmmb1s5gpgrgf905m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF2oVWb-BIPItyanRbvDsqWy5e-0_Keqw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502074403591-k9b7uao0fuic9a6729ajpqmneeopdbm8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502074403591:android:a4fcbc12ab264214",
+        "android_client_info": {
+          "package_name": "com.project.aliya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502074403591-dj1mr12k3615mv7rupn9p8gks3tot9o6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.terminalhrd",
+            "certificate_hash": "384e80c5ddc97bde50ed497dab88a67b707a9713"
+          }
+        },
+        {
+          "client_id": "502074403591-k9b7uao0fuic9a6729ajpqmneeopdbm8.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "502074403591-355tdrbc7vsls59mmmb1s5gpgrgf905m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF2oVWb-BIPItyanRbvDsqWy5e-0_Keqw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502074403591-k9b7uao0fuic9a6729ajpqmneeopdbm8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
